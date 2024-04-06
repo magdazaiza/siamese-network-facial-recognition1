@@ -3,6 +3,7 @@ Assignment 2 Report
 
 Analysis of dataset (2b)
 
+![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/4f930451-5361-4c01-8ac2-ed3c9eccaca7)
 
 
 
