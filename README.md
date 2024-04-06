@@ -84,8 +84,9 @@ The following are pictures of the same person. The model correctly classified hi
 ![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/9616961f-03ef-411d-99ea-2c9c56f4a560)
 
 It makes sense that the model got this correct. This man is wearing a suit in both pictures and has the same face and features. (He is the same person, after all).
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/98c8ef7a-95c7-4093-bac1-382ceb8afad9)
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/b67fbdaf-ea65-42f3-846b-eb275e415e3e)
+
+![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/13b5a486-d4e4-48a9-a136-ed2fdcde0d64)
+![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/1f8a5402-775b-4680-aa62-d309ef8ab5b2)
 
 
   
