@@ -9,10 +9,15 @@ The project aims to implement a convolutional neural network (CNN) for facial re
 
 # Key Features
 Implementation of a Siamese network architecture based on the paper "Siamese Neural Networks for One-shot Image Recognition."
+
 Integration of logging tools for better insight into the training process.
+
 Experimentation with various parameters and techniques to optimize model performance.
+
 Analysis of the dataset, including size, distribution, and characteristics.
+
 Evaluation of the model's performance, including convergence times, loss, and accuracy metrics.
+
 Documentation of the experimental process, including architecture description, parameter choices, and results analysis.
 
 
