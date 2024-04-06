@@ -8,17 +8,17 @@ This section provides additional information about the project, including its pu
 The project aims to implement a convolutional neural network (CNN) for facial recognition using a one-shot learning approach. It leverages deep learning techniques to analyze facial images and determine whether they belong to the same person, with a focus on real-world applications.
 
 # Key Features
-Implementation of a Siamese network architecture based on the paper "Siamese Neural Networks for One-shot Image Recognition."
+- Implementation of a Siamese network architecture based on the paper "Siamese Neural Networks for One-shot Image Recognition."
 
-Integration of logging tools for better insight into the training process.
+- Integration of logging tools for better insight into the training process.
 
-Experimentation with various parameters and techniques to optimize model performance.
+- Experimentation with various parameters and techniques to optimize model performance.
 
-Analysis of the dataset, including size, distribution, and characteristics.
+- Analysis of the dataset, including size, distribution, and characteristics.
 
-Evaluation of the model's performance, including convergence times, loss, and accuracy metrics.
+- Evaluation of the model's performance, including convergence times, loss, and accuracy metrics.
 
-Documentation of the experimental process, including architecture description, parameter choices, and results analysis.
+- Documentation of the experimental process, including architecture description, parameter choices, and results analysis.
 
 
 
