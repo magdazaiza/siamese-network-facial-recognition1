@@ -68,7 +68,6 @@ And finally the model we chose: Using Batch norm (3a)
 We also used batch normalization. We know this can improve the performance of Dense neural nets, and we tried to see how it would turn out with Convolutional Networks. Our results were:
 
 Model Convergence time: 2010sec ~= 33.5 min
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/187586e6-6d05-49d5-baef-dfc5e08f10a3)
 ![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/186a3886-02ad-4273-b541-332075b4219a)
 
 Test set results (formatted [loss, binary accuracy]):  ![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/5e4e1e64-d52c-4d67-880b-13d62eb64801)
@@ -82,8 +81,8 @@ Validation set results (formatted [loss, binary accuracy]): ![image](https://git
 Manual Evaluation (4d):
 
 The following are pictures of the same person. The model correctly classified him:  
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/75aae3cd-d04e-40cb-b57e-7c73559f3339)
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/3c50f379-3041-435e-b09b-3ac57e1b7f16)
+![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/9c6b7779-9b89-4008-9963-b225ec1f4bb5)
+![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/9616961f-03ef-411d-99ea-2c9c56f4a560)
 
 It makes sense that the model got this correct. This man is wearing a suit in both pictures and has the same face and features. (He is the same person, after all).
 ![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/98c8ef7a-95c7-4093-bac1-382ceb8afad9)
