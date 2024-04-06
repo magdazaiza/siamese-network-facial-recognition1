@@ -2,10 +2,9 @@
 
 
 # Description
-This section provides additional information about the project, including its purpose, features, and any other relevant details.
 
-# Purpose
-The project aims to implement a convolutional neural network (CNN) for facial recognition using a one-shot learning approach. It leverages deep learning techniques to analyze facial images and determine whether they belong to the same person, with a focus on real-world applications.
+Welcome to our facial recognition project! This repository contains an implementation of a convolutional neural network (CNN) for facial recognition using a one-shot learning approach. Our project leverages state-of-the-art deep learning techniques, including the Siamese network architecture, to analyze facial images and determine whether they belong to the same person. With a focus on real-world applications, we aim to provide a robust solution for facial recognition tasks.
+
 
 # Key Features
 - Implementation of a Siamese network architecture based on the paper "Siamese Neural Networks for One-shot Image Recognition."
