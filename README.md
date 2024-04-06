@@ -68,7 +68,6 @@ And finally the model we chose: Using Batch norm (3a)
 We also used batch normalization. We know this can improve the performance of Dense neural nets, and we tried to see how it would turn out with Convolutional Networks. Our results were:
 
 Model Convergence time: 2010sec ~= 33.5 min
-![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/186a3886-02ad-4273-b541-332075b4219a)
 
 Test set results (formatted [loss, binary accuracy]):  ![image](https://github.com/magdazaiza/siamese-network-facial-recognition1/assets/96849106/5e4e1e64-d52c-4d67-880b-13d62eb64801)
 
